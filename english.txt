@@ -19,3 +19,4 @@ nvm:never mind
 lmk:let me know
 lmfao:laughing my fucking *a* off
 lol:laughing out loud
+sup:what's up
