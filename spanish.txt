@@ -1,0 +1,12 @@
+grx:gracias
+grxs:gracias
+espanhol:Español
+lenguage:lenguaje
+enserio:en serio
+talves:tal vez
+talvés:tal vez
+aveces:a veces
+habias:habías
+habia:había
+kkkkk:JaJaJa
+hahaha:jajaja
