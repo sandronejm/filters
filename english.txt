@@ -21,3 +21,4 @@ lmfao:laughing my fucking *a* off
 lol:laughing out loud
 sup:what's up
 rn:right now
+np:no problem
