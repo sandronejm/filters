@@ -22,3 +22,6 @@ lol:laughing out loud
 sup:what's up
 rn:right now
 np:no problem
+dunno:don't know
+idk:I don't know
+ikr:I know right
