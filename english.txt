@@ -25,3 +25,5 @@ np:no problem
 dunno:don't know
 idk:I don't know
 ikr:I know right
+2day:today
+2moro:tomorrow
