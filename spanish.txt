@@ -10,3 +10,4 @@ habias:habías
 habia:había
 kkkkk:JaJaJa
 hahaha:jajaja
+dias:días
