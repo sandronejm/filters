@@ -32,3 +32,4 @@ ic:I see
 oj:oh/wow
 wb:what about
 everyday:Every day*\n\n"Everyday" is an adjective that is a synonym of "ordinary” or “typical," and it is not a very common word.\n\n"Every day" is a very common phrase that simply means "each day."
+noice:nice
