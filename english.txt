@@ -30,3 +30,4 @@ ikr:I know right
 ur:your/you are
 ic:I see
 oj:oh/wow
+wb:what about
